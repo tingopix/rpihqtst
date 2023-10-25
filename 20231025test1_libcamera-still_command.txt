@@ -1,0 +1,1 @@
+libcamera-still --gain 1.0 --shutter 50 --awbgains=1.58,1.86 --awb=daylight --tuning-file=/usr/share/libcamera/ipa/rpi/vc4/imx477_scientific.json --encoding png --denoise off --sharpness=0 --rawfull 1 --raw 1 --metadata 20231025test1 --output 20231025test1.png
